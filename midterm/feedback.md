@@ -6,7 +6,6 @@
 
 _Details on the grading criteria for the midterm can be found on [Canvas](https://canvas.slu.edu/courses/28045/rubrics/23671)._
 
-Overall, nicely done.  
 
 You forgot to include docstrings and tests for your functions, though.  I've deducted 10 points from the _Docs / Testing_ section.
 
